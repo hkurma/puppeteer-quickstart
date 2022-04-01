@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-quickstart",
+  "version": "1.0.0",
+  "description": "A quickstart application for NodeJS and Puppeteer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkurma/puppeteer-quickstart.git"
+  },
+  "keywords": [
+    "nodejs",
+    "puppeteer"
+  ],
+  "author": "hkurma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkurma/puppeteer-quickstart/issues"
+  },
+  "homepage": "https://github.com/hkurma/puppeteer-quickstart#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
